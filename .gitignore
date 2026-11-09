@@ -1,0 +1,9 @@
+.venv/
+.matplotlib/
+__pycache__/
+data/raw/*.csv
+data/processed/*.csv
+outputs/*.csv
+outputs/*.png
+outputs/*.html
+retail-customer-segmentation/
